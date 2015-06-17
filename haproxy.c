@@ -32,7 +32,7 @@
 #include "configfile.h"
 
 
-#define HAP_SOCKETPATH "/var/run/haproxy-stats.sock"
+#define HAP_SOCKETPATH "/var/run/haproxy.sock"
 #define HAP_SHOW_STAT "show stat\n"
 #define HAP_SHOW_INFO "show info\n"
 
